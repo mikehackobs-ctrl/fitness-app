@@ -1,0 +1,7 @@
+{
+  "name": "fitness-app",
+  "displayName": "Fitness App",
+  "expo": {
+    "sdkVersion": "45.0.0"
+  }
+}
